@@ -76,14 +76,7 @@ python train_model.py
 python app.py
 Open your browser and navigate to: http://127.0.0.1:5000/
 
-GlucoSense-AI/
-├── dataset/
-│   └── diabetes.csv       # Pima Indians Diabetes Dataset
-├── static/
-│   └── style.css          # Modern styling for the UI
-├── templates/
-│   └── index.html         # Frontend HTML template
-├── app.py                 # Flask Main Application
-├── train_model.py         # ML Training Script
-├── model.pkl              # Saved Machine Learning Model
-└── requirements.txt       # Project Dependencies
+📂 Project Structure
+
+<img width="647" height="327" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/f84100b3-1a34-42bc-97c3-d8c18099b0dd" />
+
