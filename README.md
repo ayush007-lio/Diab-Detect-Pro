@@ -53,26 +53,25 @@ Follow these steps to set up the project locally on your machine.
 
 git clone [https://github.com/your-username/GlucoSense-AI.git](https://github.com/your-username/GlucoSense-AI.git)
 cd GlucoSense-AI
+
 2. Create a Virtual Environment (Optional but Recommended)
-
-
+   
 python -m venv venv
 # Windows
 venv\Scripts\activate
 # Mac/Linux
-source venv/bin/activate
+venv/bin/activate
+
 3. Install Dependencies
 
-
 pip install -r requirements.txt
+
 4. Train the Model
 Run the training script to generate the model.pkl file.
 
-
-
 python train_model.py
-5. Run the Application
 
+5. Run the Application
 
 python app.py
 Open your browser and navigate to: http://127.0.0.1:5000/
