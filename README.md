@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-diabetes-anatomy-flaticons-flat-flat-icons.png" alt="logo" width="100" height="100" />
+  <img src="![lion](https://github.com/user-attachments/assets/615e94c7-1eaf-4888-b232-8c8165d2ba94)
+" alt="logo" width="100" height="100" />
 
   # 🩺 GlucoSense AI: Diabetes Prediction System
   
