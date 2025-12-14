@@ -1,7 +1,3 @@
-<div align="center">
-
-  <img src="![lion](https://github.com/user-attachments/assets/50ccc1b8-cd97-46f0-9314-50f3794a6fe4)
-" width="100" height="100" />
 
   # 🩺 GlucoSense AI: Diabetes Prediction System
   
