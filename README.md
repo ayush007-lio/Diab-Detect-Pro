@@ -50,11 +50,11 @@ By analyzing standard health metrics (like Glucose, BMI, Age, etc.), the Random 
 Follow these steps to set up the project locally on your machine.
 
 ### 1. Clone the Repository
-```bash
+
 git clone [https://github.com/your-username/GlucoSense-AI.git](https://github.com/your-username/GlucoSense-AI.git)
 cd GlucoSense-AI
 2. Create a Virtual Environment (Optional but Recommended)
-Bash
+
 
 python -m venv venv
 # Windows
@@ -62,23 +62,23 @@ venv\Scripts\activate
 # Mac/Linux
 source venv/bin/activate
 3. Install Dependencies
-Bash
+
 
 pip install -r requirements.txt
 4. Train the Model
 Run the training script to generate the model.pkl file.
 
-Bash
+
 
 python train_model.py
 5. Run the Application
-Bash
+
 
 python app.py
 Open your browser and navigate to: http://127.0.0.1:5000/
 
 📂 Project Structure
-Plaintext
+
 
 GlucoSense-AI/
 ├── dataset/
